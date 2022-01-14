@@ -2,6 +2,6 @@
 
 int main()
 {
-    // AA
+    // A
     return 0;
 }
